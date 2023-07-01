@@ -1,0 +1,6 @@
+[deps]
+opencv = ""
+matplotlib = ""
+roifile = ""
+numpy = ""
+read-roi = ""
